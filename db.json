@@ -1,4 +1,4 @@
-[{
+{ "posts":[{
     "userId": 1,
     "id": 1,
     "title": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
@@ -28,4 +28,4 @@
     "title": "nesciunt quas odio",
     "body": "repudiandae veniam quaerat sunt sed\nalias aut fugiat sit autem sed est\nvoluptatem omnis possimus esse voluptatibus quis\nest aut tenetur dolor neque"
   }
-]
+]}
